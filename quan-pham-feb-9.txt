@@ -1,0 +1,6 @@
+1. Did you watch the 'History of Kubernetes Part I' video?
+Yes
+2. Did you find the video interesting? Why or why not?
+
+3. What editor did you use to write this file?
+Visual Studio Code
