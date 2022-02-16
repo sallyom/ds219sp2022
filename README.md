@@ -2,6 +2,17 @@
 
 This is a repository for students in Spring 2022 DS 219
 
+#### Be sure you've set your text editor in your local git config
+
+This only has to be run once, it's a global git setting that will apply
+to all of your local github repositories. In the below example,
+[atom](https://blog.atom.io/2014/12/10/a-windows-installer-and-updater.html) is set.
+
+`atom` is a common and easy-to-use editor, but you can set any editor you prefer.
+
+```shell
+git config --global core.editor "atom"
+```
 
 #### Fork then clone this repository
 
@@ -10,7 +21,6 @@ This is a repository for students in Spring 2022 DS 219
 git clone git@github.com:yourname/ds219sp2022.git
 cd ds219sp2022
 git remote add upstream git@github.com:sallyom/ds219sp2022.git
-
 ```
 
 #### Create a new branch for new work
@@ -22,10 +32,11 @@ git checkout -b my-new-branch
 #### Continually keep your local working branch up to date with upstream main branch
 
 ```shell
+# this ensures your local working branch is current with latest upstream main branch
 git fetch --all
 git rebase upstream/main
-# the above ensures your local working branch is current with latest changes in upstream main branch
 ```
+
 #### Add a file to your local branch
 
 (and watch [History of Kubernetes Part 1](https://youtu.be/BE77h7dmoQU))
@@ -68,12 +79,12 @@ git fetch --all
 git rebase upstream/main
 git push --force-with-lease origin my-new-branch
 ```
+
 #### To get back to your main branch
 
-You won't be able to check out a branch unless the branch you are currently working in is clean, ie, you've 
-commited all changes
+You won't be able to check out a branch unless the branch you are currently working
+in is clean, ie, you've commited all changes locally
 
 ```shell
 git checkout main
 ```
-
