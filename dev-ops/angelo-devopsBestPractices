@@ -1,0 +1,17 @@
+Angelo Facciponti-Mennella  
+
+1. Agile Project Development
+  Agile is an approach to project development/management that focuses on iterative, gradual deployment. Agile teams follow a continuous cycle that breaks
+  large projects into small segments that are worked on one at a time. Usually the teams will develop throughout a "sprint" and come together regularly to 
+  review their requirements/plans and ensure their work is sticking to the guidelines set in the planning phase. The product is then released at its current
+  state and the next, slightly bigger version is started on.
+ 
+2. Implement Automation
+  Automation saves a lot of time in the testing and verification process. End-to-end testing, unit tests, and performance tests facilitate continuous
+  integration and allow teammates to quickly merge into the main repo.
+
+3. Observability
+  It is vital to know exactly how your system is doing at any one time and predict how it will do in other circumstances. This becomes much more complex 
+  with microservices, but logs, traces, and metrics make up the foundation of good observability. Logs give you time-series data about the app's functioning
+  and are usually supplied by system components. Traces track the flow of logic throughout your system. Metrics include the tracking of CPU/GPU usage, disk 
+  space, and network connectivity. 
