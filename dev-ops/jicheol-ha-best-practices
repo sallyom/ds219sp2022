@@ -1,0 +1,11 @@
+Agile Project Management: Agile teams focus on delivering projects and work in small, frequent increments rather than in large masses. 
+Requirements, plans, and results are updated and responded continously. Agile management is divided largely into four steps: to do, in progress, code reivew, and done.
+
+Implement Automation: Continuous delivery and implementation allows developers to merge code regularly. Using CI/CD, this process can be automated. 
+Automated testing is also necessary for a successfull DevOPs, including end-to-end testing, unit tests, integration tests, and performance tests.
+
+Observability: The three pillars of observability are logs, traces, and metrics. 
+Logs is a time-series data of the performance of an application.
+Traces track the sequence of logic in the application.
+Metrics refer to CPU/RAM reservation or usage, disk space, network connectivity, and more.
+Observability helps to make useful predictions or discoveries about a running application my using all three pillars, which would otherwise be a very complex process. 
