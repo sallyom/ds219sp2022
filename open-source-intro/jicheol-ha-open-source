@@ -1,0 +1,4 @@
+Contributing to Kubernetes when you have a full time job: https://www.youtube.com/watch?v=0LlBRLP_z_g
+IBM Software Engineer Tara Gu provides us with a solid tutorial for contributing to Kubernetes. She also shares time management tips and tricks.
+In order to open an work on an issue, one can look into related past PRs or related issues. Next, test your code by creating unit tests, and running them locally first. Then submit PR and ping issue creater for review.
+Yes, very insightful and short video by an IBM SWE.
