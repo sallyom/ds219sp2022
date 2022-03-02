@@ -28,6 +28,7 @@ it can provide a great sense of community for your team, no matter when or where
 4. Start a video or voice conference call with other members of the Slack team on the fly
 5. Set reminders for yourself or others
 6. particularly good for: real-time collaboration, quick questions and decisions, quick poll/quiz
+7. Integrate 1000s of Apps to your slack workspace from App Store
 
 #### Cons
 1. Adoption: “not yet another app to install!”
