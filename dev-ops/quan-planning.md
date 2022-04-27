@@ -1,0 +1,1 @@
+Jira is a software development tool that allows development and operations teams to manage work by breaking them down into smaller chunks and speed up deployments. It provides sprint planning, issue tracking, user stories management, and eases team collaboration - everyone can share and comment on anything whether it is ideas, strategies, goals, etc.  

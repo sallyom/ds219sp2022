@@ -1,0 +1,4 @@
+[Kubernetes vs. Docker: It's Not an Either/Or Question](https://www.youtube.com/watch?v=2vMEQ5zs1ko)\
+The video talks about the difference between Kubernetes and Docker and highlights the fact that these two technologies often go hand in hand with each other. In particular, Kubernetes orchestrates existing Docker containers and workloads to solve the scalability problem - making more effective use of servers and space. Kubernetes helps ease deployment, development, and monitoring.\
+After watching this video, I understand more about the difference between the two technologies and also get to see how they interact with each other through a simple real-life example of scaling a React.js application with good visualizations.\
+I definitely recommend this video for anyone who wants to learn more about the 2 important tools in the DevOps world but also in the industry.\   
