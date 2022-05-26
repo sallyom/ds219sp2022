@@ -1,1 +1,0 @@
-Submitting attendance via the terminal on VS Code
